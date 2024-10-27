@@ -29,6 +29,7 @@ I am a Full Stack Development student currently in the process of completing my 
 <!--   <img alt="React" src="https://img.shields.io/badge/react-091921?style=for-the-badge&logo=react&logoColor=cyan"/> -->
   <img alt="SQL" src="https://img.shields.io/badge/SQL-091921?style=for-the-badge&logo=mysql&logoColor=cyan"/>
   <img alt="WordPress" src="https://img.shields.io/badge/WordPress-091921?style=for-the-badge&logo=wordpress&logoColor=cyan"/>
+  <img alt="PHP" src="https://img.shields.io/badge/PHP-091921?style=for-the-badge&logo=php&logoColor=cyan"/>
   <!-- Añadir otras tecnologías siguiendo el estilo "Tron" -->
 </div>
 
